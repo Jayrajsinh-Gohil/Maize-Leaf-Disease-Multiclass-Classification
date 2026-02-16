@@ -85,7 +85,7 @@ The model shows excellent convergence with validation accuracy reaching **98.30%
 #### Loss Graph  
 Loss curves demonstrate effective learning without overfitting:
 
-![Training and Validation Loss](visualizations/training_loss.png)
+![Training and Validation Loss](val_acc.png)
 
 *Both training and validation losses decrease steadily, indicating good model generalization.*
 
@@ -93,7 +93,7 @@ Loss curves demonstrate effective learning without overfitting:
 
 The confusion matrix reveals strong classification performance across all classes:
 
-![Confusion Matrix](visualizations/confusion_matrix.png)
+![Confusion Matrix](visualizations/val_loss.png)
 
 *The heatmap shows high values along the diagonal, indicating accurate predictions for all disease classes.*
 
