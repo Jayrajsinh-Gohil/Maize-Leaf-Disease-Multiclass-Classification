@@ -78,7 +78,7 @@ scikit-learn
 #### Accuracy Graph
 The model shows excellent convergence with validation accuracy reaching **98.30%**:
 
-![Training and Validation Accuracy](visualizations/training_accuracy.png)
+![Training and Validation Accuracy](conf_metrix.png)
 
 *The plot shows consistent improvement in both training and validation accuracy, with early stopping preventing overfitting.*
 
