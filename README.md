@@ -93,7 +93,7 @@ Loss curves demonstrate effective learning without overfitting:
 
 The confusion matrix reveals strong classification performance across all classes:
 
-![Confusion Matrix](visualizations/conf_metrix.png)
+![Confusion Matrix](conf_metrix.png)
 
 *The heatmap shows high values along the diagonal, indicating accurate predictions for all disease classes.*
 
