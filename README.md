@@ -78,14 +78,14 @@ scikit-learn
 #### Accuracy Graph
 The model shows excellent convergence with validation accuracy reaching **98.30%**:
 
-![Training and Validation Accuracy](conf_metrix.png)
+![Training and Validation Accuracy](val_acc.png)
 
 *The plot shows consistent improvement in both training and validation accuracy, with early stopping preventing overfitting.*
 
 #### Loss Graph  
-Loss curves demonstrate effective learning without overfitting:
+Loss curves demonstrate effective learning without overfitting: 
 
-![Training and Validation Loss](val_acc.png)
+![Training and Validation Loss](val_loss.png)
 
 *Both training and validation losses decrease steadily, indicating good model generalization.*
 
@@ -93,7 +93,7 @@ Loss curves demonstrate effective learning without overfitting:
 
 The confusion matrix reveals strong classification performance across all classes:
 
-![Confusion Matrix](visualizations/val_loss.png)
+![Confusion Matrix](visualizations/conf_metrix.png)
 
 *The heatmap shows high values along the diagonal, indicating accurate predictions for all disease classes.*
 
